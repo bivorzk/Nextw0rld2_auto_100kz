@@ -17,7 +17,7 @@
    ```
 
 2. **Run the script:**
-   - (Add instructions for how to execute your script here, e.g., `python main.py`)
+   - (If you have python installed you can run it by opening cmd to project folder and typing `python main.py`)
 
 ## Requirements
 
