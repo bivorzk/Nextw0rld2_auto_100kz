@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Nextw0rld2_auto_100kz** is a Python project that automatically activates 'karzium's, so users do not need to click them manually. This automation helps streamline user experience, saving time and effort.
+**Nextw0rld2_auto_100kz** is a Python project that automatically activates 'karzium', so users do not need to click them manually.
 
 ## Features
 
@@ -23,12 +23,11 @@
 
 - Python 3.x
 - pyautogui
-
-## Usage
-
-Once started, the script will handle 'karzium' activation automatically. No manual intervention required.
-
-
+  ```
+   pip install cv2
+   pip install pyautogui
+   pip install numpy
+  ``
 ## Author
 
 [Bivorzk]
